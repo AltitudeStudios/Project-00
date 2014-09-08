@@ -11,7 +11,7 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\object0</object>
+    <object>objects\OBJ_PLYR</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
