@@ -19,7 +19,11 @@
     <room>rooms\room0</room>
   </rooms>
   <constants number="2">
+<<<<<<< HEAD
     <constant name="GM_build_date">41890.1692933681</constant>
+=======
+    <constant name="GM_build_date">41890.160948912</constant>
+>>>>>>> origin/Game
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
