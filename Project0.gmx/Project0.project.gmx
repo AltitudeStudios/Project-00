@@ -20,7 +20,11 @@
   </rooms>
   <constants number="2">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <constant name="GM_build_date">41890.1692933681</constant>
+=======
+    <constant name="GM_build_date">41890.1647147106</constant>
+>>>>>>> 7d5532887870bb0f3cb5987c9c5f97817d5c0f5e
 =======
     <constant name="GM_build_date">41890.160948912</constant>
 >>>>>>> origin/Game
