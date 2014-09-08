@@ -7,18 +7,17 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_player</sprite>
-    <sprite>sprites\spr_wall</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\OBJ_PLYR</object>
-    <object>objects\obj_wall</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
   </rooms>
   <constants number="2">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <constant name="GM_build_date">41890.1692933681</constant>
@@ -28,6 +27,9 @@
 =======
     <constant name="GM_build_date">41890.160948912</constant>
 >>>>>>> origin/Game
+=======
+    <constant name="GM_build_date">41890.1589730324</constant>
+>>>>>>> parent of 600a8f4... walls
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
