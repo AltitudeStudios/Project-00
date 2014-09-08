@@ -16,17 +16,9 @@
   <rooms name="rooms">
     <room>rooms\room0</room>
   </rooms>
-  <constants number="2">
-    <constant name="GM_build_date">41890.1692933681</constant>
-=======
-    <constant name="GM_build_date">41890.1647147106</constant>
->>>>>>> 7d5532887870bb0f3cb5987c9c5f97817d5c0f5e
-=======
-    <constant name="GM_build_date">41890.160948912</constant>
->>>>>>> origin/Game
-=======
-    <constant name="GM_build_date">41890.1589730324</constant>
->>>>>>> parent of 600a8f4... walls
+  <constants number="3">
+    <constant name="GM_build_date">41890.1887097338</constant>
+    <constant name=""></constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
