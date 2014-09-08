@@ -17,9 +17,6 @@
     <room>rooms\room0</room>
   </rooms>
   <constants number="2">
-<<<<<<< HEAD
-
-
     <constant name="GM_build_date">41890.1692933681</constant>
 =======
     <constant name="GM_build_date">41890.1647147106</constant>
